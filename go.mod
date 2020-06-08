@@ -7,7 +7,7 @@ require (
 	github.com/containers/common v0.12.0
 	github.com/containers/image/v5 v5.4.4
 	github.com/containers/ocicrypt v1.0.2
-	github.com/containers/storage v1.20.1
+	github.com/containers/storage v1.20.2
 	github.com/cyphar/filepath-securejoin v0.2.2
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/go-units v0.4.0
@@ -21,7 +21,7 @@ require (
 	github.com/onsi/gomega v1.10.1
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
-	github.com/opencontainers/runc v1.0.0-rc9
+	github.com/opencontainers/runc v1.0.0-rc90
 	github.com/opencontainers/runtime-spec v1.0.3-0.20200520003142-237cc4f519e2
 	github.com/opencontainers/runtime-tools v0.9.0
 	github.com/opencontainers/selinux v1.5.2
